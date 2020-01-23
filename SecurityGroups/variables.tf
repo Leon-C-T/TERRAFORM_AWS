@@ -10,7 +10,7 @@ variable "http-port" {
 
 variable "https-port" {
     description     =   "Default port for HTTPS protocol"
-    default         =   "8080"
+    default         =   "443"
 }
 
 variable "open-internet" {
